@@ -1,0 +1,15 @@
+table,
+th {
+  border: 1px solid #888;
+  border-collapse: collapse;
+}
+table {
+  width: 500px;
+}
+th {
+  background-color: #888;
+  color: #fff;
+}
+td {
+  background-color: #f6f1f1d8;
+}
