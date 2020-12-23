@@ -1,0 +1,14 @@
+table {
+  border: 2px solid #000;
+  border-collapse: collapse;
+  text-align: center;
+  width: 300px;
+}
+
+td {
+  background-color: #e5cfcf;
+}
+.title {
+  background-color: #af5151;
+  color: #fff;
+}
