@@ -4,14 +4,14 @@
   border: 1px solid #000;
 }
 .rouge {
-  background-color: rgba(255, 0, 0, 0.3);
+  background-color: rgba(255, 0, 0, 0.4);
   transform: translateX(200px);
 }
 .vert {
-  background-color: rgba(0, 255, 0, 0.3);
+  background-color: rgba(0, 255, 0, 0.4);
   transform: translateX(150px) translateY(-75px);
 }
 .bleu {
-  background-color: rgba(0, 0, 255, 0.3);
+  background-color: rgba(0, 0, 255, 0);
   transform: translateX(275px) translateY(-250px);
 }
